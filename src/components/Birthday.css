@@ -1,0 +1,10 @@
+.birthday-container {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    width: 90%; 
+    max-width: 800px; 
+    margin: 40px auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
